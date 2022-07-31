@@ -1,2 +1,2 @@
-# Red-neuronal-clasificador-imagenes
+# Red neuronal clasificador imagenes
 My first neural network called Pepe
